@@ -1,2 +1,1 @@
-#todo
-[]deixar id como uuid
+# Minhas séries
